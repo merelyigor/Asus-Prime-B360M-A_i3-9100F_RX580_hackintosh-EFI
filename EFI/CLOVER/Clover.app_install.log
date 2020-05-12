@@ -1,0 +1,28 @@
+
+Clover Installer r5117 (a4ac6daf9) (v1.1.4), 2020-05-12 09:35:14
+macOS Version 10.15.3 (Build 19D76)
+SELF = /Applications/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/igor/Desktop/CloverBackUp/Kingston DataTraveler 3.0 Media/r5115_2020-05-12_09-35-00/EFI.
+Target volume: /Volumes/EFI
+BSD Name:      disk4s1
+Filesystem:    FAT32
+Is internal:   false
+Is writable:   true
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
++ ../UEFI/FSInject.efi
++ ../UEFI/ApfsDriverLoader.efi
++ ../UEFI/VBoxHfs.efi
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
