@@ -202,11 +202,9 @@
 		<key>CsrActiveConfig</key>
 		<string>0x77</string>
 		<key>MLB</key>
-		<string>xxxxxxxxxxxxxxx</string>
+		<string>C02834501GUJG361F</string>
 		<key>ROM</key>
-		<data>
-		AAAAAAAA
-		</data>
+		<data>d8ILG90c</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -215,7 +213,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>xxxxxxxxxxxxxxx</string>
+		<string>C02834501GUJG361F</string>
 		<key>Family</key>
 		<string>iMac Pro</string>
 		<key>Mobile</key>
@@ -225,9 +223,9 @@
 		<key>ProductName</key>
 		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>xxxxxxxxxxxxxxx</string>
+		<string>C02X8MY7HX87</string>
 		<key>SmUUID</key>
-		<string>xxxxxxxxxxxxxxx</string>
+		<string>2E9D9420-707B-595D-8BA6-EA95BDDD5708</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
