@@ -33,3 +33,11 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/macos
+EFI/BOOT/.empty
+EFI/CLOVER/ACPI/patched/.empty
+EFI/CLOVER/kexts/10.11/.empty
+EFI/CLOVER/kexts/10.12/.empty
+EFI/CLOVER/kexts/10.13/.empty
+EFI/CLOVER/kexts/10.14/.empty
+EFI/CLOVER/kexts/10.15/.empty
+EFI/CLOVER/kexts/Off/.empty
