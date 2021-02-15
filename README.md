@@ -138,7 +138,7 @@ then also a random number of times click below on the Generate button
 For those in Ukraine where I bought a motherboard, processor, etc.
 1. [Motherboard Asus Prime B360M-A (s1151, Intel B360, PCI-Ex16)](https://hard.rozetka.com.ua/asus_prime_b360m_a/p36702976/)
 2. [Processor Intel Core i3-9100F 3.6GHz/8GT/s/6MB (BX80684I39100F) s1151 BOX](https://hard.rozetka.com.ua/intel_core_i3_9100f/p87431722/)
-3. [RAM Micron Crucial DDR4 2400 16GB Retail (CT16G4DFD824A)](https://www.moyo.ua/pamyat_dlya_pk_micron_crucial_ddr4_2400_16gb_retail_ct16g4dfd824a/328726.html)
+3. [RAM HyperX DDR4-3200 32768MB (HX432C16FB4AK2/32)](https://hard.rozetka.com.ua/hyperx_hx432c16fb4ak2_32/p263357266/)
 4. [Chieftec 600W CFT-600-14CS 600Watt](https://www.olx.ua/list/q-Chieftec-600W/) Chieftec only:)
 5. [Sapphire RX580 Pulse 8Gb](https://www.olx.ua/list/q-Sapphire-RX580-Pulse-8Gb/) They became very cheaper after the decline of mining
 6. [housing Cougar MX330-G Black](https://hard.rozetka.com.ua/cougar_385nc10_0007/p38634720/)
